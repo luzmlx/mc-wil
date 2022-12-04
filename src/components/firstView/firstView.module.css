@@ -1,0 +1,12 @@
+.heartIcon {
+    color: rgb(201, 18, 18);
+}
+
+.iconContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.iconContainer > p {
+    color: white;
+}
