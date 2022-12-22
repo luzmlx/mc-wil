@@ -39,7 +39,7 @@ const Slideshow = () => {
   return (
     <div className={styles.slideContainer}>
       <h2 style={{ marginTop: "45px" }}>
-        Our Amazing, Loving Family. We'll be here forever
+        Our Amazing, Loving Family.
       </h2>
       <div className={styles.text}>
         <audio ref={audioLHRef} src={laurenHill} />
